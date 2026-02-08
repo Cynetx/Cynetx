@@ -4,8 +4,7 @@
 
 **هکینگ • کدنویسی • ذهنیت مهاجم**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Sabine+%7C+مدیر+Cynet;Offense+%2F+Defense+Mindset;AI+%2B+Security+Engineering;Build+Real%2C+Break+Smart" />
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Cyber+Security+Mindset;AI+Driven+Defense+%26+Attack;Founder+of+Cynet;Security+is+a+Way+of+Thinking" />
 </div>
 
 ---
