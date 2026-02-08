@@ -1,32 +1,35 @@
 <div align="center">
 
-# 👾 Sabine | Cynet
+# 👾 Sabine | مدیر Cynet
 
-**هکینگ • کدنویسی • ذهنیت مهاجم**
+**Cyber Security • Offensive Mindset • Real‑World Engineering**
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Cyber+Security+Mindset;AI+Driven+Defense+%26+Attack;Founder+of+Cynet;Security+is+a+Way+of+Thinking" />
+
 </div>
 
 ---
 
 ## ⚡ About
 من **Sabine (سابین)** هستم، مدیر **Cynet (ساینت)**.  
-تمرکز من روی ترکیب **امنیت سایبری واقعی، اتوماسیون هوشمند و مهندسی سطح بالا**ست.
+تمرکز من روی **امنیت سایبری واقعی، اتوماسیون هوشمند و مهندسی سطح بالا**ست.
 
 - 🔐 هکینگ و تست نفوذ با رویکرد عملی
-- 🤖 مهندسی هوش مصنوعی برای تحلیل تهدید
-- � تحلیل و طراحی سناریوهای Red / Blue
+- 🤖 AI برای تحلیل تهدید و اتوماسیون امنیتی
+- 🧠 طراحی سناریوهای Red / Blue Team
 - 🚀 ساخت اکوسیستم Cynet برای آموزش و R&D
 
 > **Security is not a tool. It’s a mindset.**
 
 ---
 
-## 🧩 Focus Areas
-- ✅ Threat Modeling & Attack Simulation
-- ✅ AI‑Powered Defense Automation
-- ✅ Log & Behavior Analysis
-- ✅ Web / Network / OSINT Engineering
+## � Focus Grid
+| حوزه | تمرکز |
+|---|---|
+| 🕵️ Threat Modeling | شبیه‌سازی حمله و ارزیابی ریسک |
+| 🛡️ Defense Automation | پاسخ خودکار و مقاوم‌سازی |
+| 🌐 Web / Network | تحلیل زیرساخت، سرویس و ترافیک |
+| 🔍 OSINT | کشف هوشمند داده و منابع عمومی |
 
 ---
 
@@ -39,7 +42,7 @@
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker)
 ![AI](https://img.shields.io/badge/AI_Security-0d1117?style=for-the-badge&logo=openai)
 ![Networking](https://img.shields.io/badge/Networking-0d1117?style=for-the-badge&logo=cloudflare)
-![Security](https://img.shields.io/badge/Offensive_Security-0d1117?style=for-the-badge&logo=kalilinux)
+![Offensive](https://img.shields.io/badge/Offensive_Security-0d1117?style=for-the-badge&logo=kalilinux)
 
 </div>
 
