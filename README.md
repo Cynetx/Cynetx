@@ -1,29 +1,37 @@
 <div align="center">
 
-# 👾 Cynetx | Cynet Team
+# 👾 Sabine | Cynet
 
-**Cyber Security • Artificial Intelligence • Think Like an Attacker**
+**هکینگ • کدنویسی • ذهنیت مهاجم**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Cyber+Security+Mindset;AI+Driven+Defense+%26+Attack;Founder+of+Cynet;Security+is+a+Way+of+Thinking" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Sabine+%7C+مدیر+Cynet;Offense+%2F+Defense+Mindset;AI+%2B+Security+Engineering;Build+Real%2C+Break+Smart" />
 
 </div>
 
 ---
 
-## 🧠 About
-من **Cynetx** هستم، بنیان‌گذار تیم **Cynet (ساینت)**.  
-تمرکز من روی جاییه که **امنیت سایبری، هوش مصنوعی و دنیای واقعی** به هم می‌رسن.
+## ⚡ About
+من **Sabine (سابین)** هستم، مدیر **Cynet (ساینت)**.  
+تمرکز من روی ترکیب **امنیت سایبری واقعی، اتوماسیون هوشمند و مهندسی سطح بالا**ست.
 
-- 🔐 امنیت سایبری (Attack & Defense Mindset)
-- 🤖 استفاده عملی از AI در تحلیل تهدید و اتوماسیون
-- 🧪 یادگیری و ساخت بر پایه سناریوهای واقعی
-- 🚀 در حال توسعه اکوسیستم **Cynet**
+- 🔐 هکینگ و تست نفوذ با رویکرد عملی
+- 🤖 مهندسی هوش مصنوعی برای تحلیل تهدید
+- � تحلیل و طراحی سناریوهای Red / Blue
+- 🚀 ساخت اکوسیستم Cynet برای آموزش و R&D
 
 > **Security is not a tool. It’s a mindset.**
 
 ---
 
-## 🛠 Tech Stack
+## 🧩 Focus Areas
+- ✅ Threat Modeling & Attack Simulation
+- ✅ AI‑Powered Defense Automation
+- ✅ Log & Behavior Analysis
+- ✅ Web / Network / OSINT Engineering
+
+---
+
+## 🧪 Skill Stack
 <div align="center">
 
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux)
@@ -31,16 +39,18 @@
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker)
 ![AI](https://img.shields.io/badge/AI_Security-0d1117?style=for-the-badge&logo=openai)
+![Networking](https://img.shields.io/badge/Networking-0d1117?style=for-the-badge&logo=cloudflare)
+![Security](https://img.shields.io/badge/Offensive_Security-0d1117?style=for-the-badge&logo=kalilinux)
 
 </div>
 
 ---
 
 ## 🔥 Cynet Ecosystem
-**Cynet (ساینت)** یک اکوسیستم تخصصی در حوزه امنیت سایبری و هوش مصنوعی است:
+**Cynet (ساینت)** اکوسیستم تخصصی امنیت سایبری و AI است:
 
-- 🔐 آموزش امنیت سایبری پروژه‌محور
-- 🤖 AI برای تحلیل تهدید، لاگ و رفتار
+- 🔐 آموزش امنیت پروژه‌محور و واقعی
+- 🤖 تحلیل تهدید با AI و اتوماسیون
 - 🧠 تفکر Red / Blue Team
 - 📰 تحلیل و اخبار تکنولوژی
 
@@ -49,26 +59,13 @@
 
 ---
 
-## 🚀 Focus Areas
-- ✅ Threat Modeling & Attack Simulation  
-- ✅ AI‑Powered Security Automation  
-- ✅ Log Analysis & Anomaly Detection  
-- ✅ Red Team / Blue Team Scenarios  
+## 🧷 Signature
+**Build Real. Break Smart.**  
+*Stay paranoid. Stay secure.*
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-
-![Cynetx GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cynetx&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cynetx&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
-
-
-</div>
-
----
-
-## 🌍 Connect with Cynet
+## 🌍 Connect
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=google-chrome)](https://cynetx.ir)
@@ -76,23 +73,5 @@
 [![X](https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x)](https://x.com/cynetxir)
 [![YouTube](https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube)](https://www.youtube.com/@cynetxir)
 [![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord)](https://discord.gg/JTpfchCFDV)
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 Contribution Snake
-![snake gif](https://github.com/Cynetx/Cynetx/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-<div align="center">
-
-**Built by Cynetx | Cynet Team**  
-*Stay paranoid. Stay secure.*
 
 </div>
