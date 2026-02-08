@@ -1,10 +1,8 @@
 <div align="center">
 
 # 👾 Sabine | Cynet Founder & Director
-**سابین | بنیان‌گذار و مدیر ساینت**
 
 **Cyber Security • Offensive Engineering • Applied AI**
-**امنیت سایبری • مهندسی آفنس • هوش مصنوعی کاربردی**
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Cyber+Security+Mindset;AI+Driven+Defense+%26+Attack;Founder+of+Cynet;Security+is+a+Way+of+Thinking" />
 
@@ -12,27 +10,20 @@
 
 ---
 
-## ⚡ About | درباره
+## ⚡ About
 I'm **Sabine** — Founder & Director of **Cynet**.  
-من **سابین** هستم؛ بنیان‌گذار و مدیر **Cynet**.
-
-I build real‑world security systems where **offense, defense, and AI engineering** converge.  
-سیستم‌های امنیتی واقعی می‌سازم؛ جایی که **آفنس، دیفنس و مهندسی AI** بهم می‌رسن.
+I build real‑world security systems where **offense, defense, and AI engineering** converge.
 
 - 🔐 Offensive Security, exploitation & real‑world testing
-- 🔐 امنیت آفنس، اکسپلویت و تست‌های واقعی
 - 🤖 AI‑driven threat analysis & security automation
-- � تحلیل تهدید با AI و اتوماسیون امنیت
-- �🧠 Red / Blue Team scenarios & adversarial modeling
-- 🧠 سناریوهای Red / Blue و مدلسازی حمله
+-  Red / Blue Team scenarios & adversarial modeling
 - 🚀 Building the Cynet ecosystem for R&D and education
-- 🚀 توسعه اکوسیستم Cynet برای تحقیق و آموزش
 
 > **Security is not a tool. It’s a mindset.**
 
 ---
 
-## 🧠 Focus Grid | حوزه‌های تمرکز
+## 🧠 Focus Grid
 | Domain | Core Focus |
 |---|---|
 | 🕵️ Threat Modeling | Adversarial simulation & risk profiling |
@@ -42,7 +33,7 @@ I build real‑world security systems where **offense, defense, and AI engineeri
 
 ---
 
-## 🧪 Skill Stack | مهارت‌ها
+## 🧪 Skill Stack
 <div align="center">
 
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux)
@@ -57,37 +48,28 @@ I build real‑world security systems where **offense, defense, and AI engineeri
 
 ---
 
-## 🔥 Cynet Ecosystem | اکوسیستم ساینت
+## 🔥 Cynet Ecosystem
 **Cynet** is a full‑stack cyber security & AI ecosystem —  
 focused on **content, education, tools, and real‑world impact** for digital defense.
 
-**Cynet** یک اکوسیستم جامع امنیت سایبری و هوش مصنوعی است؛  
-متمرکز بر **تولید محتوا، آموزش، ابزارها و تأثیر واقعی در دفاع دیجیتال**.
-
 - 🔐 High‑signal security content & research
-- 🔐 محتوای تخصصی امنیت و پژوهش
 - 🤖 AI‑assisted threat analysis and automation
-- 🤖 تحلیل تهدید با AI و اتوماسیون
-- 🧪 Practical training, labs, and scenarios
-- 🧪 آموزش عملی، لَب‌ها و سناریوها
+- � Practical training, labs, and scenarios
 - 🛠️ Tooling for digital & cyber defense
-- 🛠️ ابزارهای دفاع دیجیتال و سایبری
 - 📰 Insights, reports, and emerging tech coverage
-- 📰 تحلیل‌ها، گزارش‌ها و ترندهای نوظهور
 
 🌐 Website: https://cynetx.ir  
 📰 News: https://news.cynetx.ir  
 
 ---
 
-## 🧷 Signature | امضا
+## 🧷 Signature
 **Build Real. Break Smart.**  
-**واقعی بساز. هوشمندانه بشکن.**  
 *Stay paranoid. Stay secure.*
 
 ---
 
-## 🌍 Connect | ارتباط
+## 🌍 Connect
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=google-chrome)](https://cynetx.ir)
