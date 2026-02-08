@@ -10,26 +10,34 @@
 
 ---
 
-## ⚡ About
+## ⚡ Identity
 I'm **Sabine** — Founder & Director of **Cynet**.  
-I build real‑world security systems where **offense, defense, and AI engineering** converge.
+I build real‑world security systems where **offense, defense, and AI engineering** converge.  
 
-- 🔐 Offensive Security, exploitation & real‑world testing
-- 🤖 AI‑driven threat analysis & security automation
--  Red / Blue Team scenarios & adversarial modeling
-- 🚀 Building the Cynet ecosystem for R&D and education
+**Core Traits**
+- ⚔️ Offensive Security with real‑world validation
+- � Adversarial thinking and precision modeling
+- 🤖 AI‑assisted automation for scalable defense
+- 🧪 Research‑driven engineering and tooling
 
 > **Security is not a tool. It’s a mindset.**
 
 ---
 
-## 🧠 Focus Grid
-| Domain | Core Focus |
+## 🧠 Threat Matrix
+| Domain | Focus |
 |---|---|
-| 🕵️ Threat Modeling | Adversarial simulation & risk profiling |
-| 🛡️ Defense Automation | Response orchestration & hardening |
-| 🌐 Web / Network | Infra assessment & traffic intelligence |
-| 🔍 OSINT | Signal extraction from open sources |
+| 🕵️ Recon & OSINT | Signal extraction, identity mapping, open‑source intel |
+| 🧨 Exploit & Red | Exploitation paths, impact analysis, adversary simulation |
+| 🛡️ Defense & Blue | Hardening, response orchestration, detection logic |
+| 🧬 AI Security | Automated triage, behavior modeling, anomaly analysis |
+| 🌐 Web & Network | Infra assessment, protocol intelligence, traffic profiling |
+| 🧪 R&D | Custom tooling, lab frameworks, scenario design |
+
+---
+
+## 🧩 Ops Pipeline
+**Recon → Intel → Exploit → Defense → Automation → Resilience**
 
 ---
 
@@ -49,12 +57,12 @@ I build real‑world security systems where **offense, defense, and AI engineeri
 ---
 
 ## 🔥 Cynet Ecosystem
-**Cynet** is a full‑stack cyber security & AI ecosystem —  
+**Cynet** is a full‑stack cyber security & AI ecosystem,  
 focused on **content, education, tools, and real‑world impact** for digital defense.
 
-- 🔐 High‑signal security content & research
+- 🔐 High‑signal security content and research
 - 🤖 AI‑assisted threat analysis and automation
-- � Practical training, labs, and scenarios
+- 🧪 Practical training, labs, and scenario‑based learning
 - 🛠️ Tooling for digital & cyber defense
 - 📰 Insights, reports, and emerging tech coverage
 
