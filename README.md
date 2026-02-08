@@ -6,19 +6,27 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Cyber+Security+Mindset;AI+Driven+Defense+%26+Attack;Founder+of+Cynet;Security+is+a+Way+of+Thinking" />
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F14,100:0D1117&height=120&section=header&text=CYNET%20OPS&fontColor=36BCF7&fontSize=38&animation=fadeIn&desc=Build%20Real.%20Break%20Smart.&descAlign=50&descSize=14" />
+
 </div>
 
 ---
 
-## ⚡ Identity
+## 🎬 Identity
 I'm **Sabine** — Founder & Director of **Cynet**.  
-I build real‑world security systems where **offense, defense, and AI engineering** converge.  
+I build cinematic‑grade security systems where **offense, defense, and AI engineering** collide.  
 
 **Core Traits**
 - ⚔️ Offensive Security with real‑world validation
-- � Adversarial thinking and precision modeling
+- 🧠 Adversarial thinking and precision modeling
 - 🤖 AI‑assisted automation for scalable defense
 - 🧪 Research‑driven engineering and tooling
+
+---
+
+## 🎞️ Cyber Trailer
+**“Signal in. Noise out. Impact measured.”**  
+I engineer threat pipelines that read like a cyber‑thriller — but execute like production systems.
 
 > **Security is not a tool. It’s a mindset.**
 
@@ -38,6 +46,14 @@ I build real‑world security systems where **offense, defense, and AI engineeri
 
 ## 🧩 Ops Pipeline
 **Recon → Intel → Exploit → Defense → Automation → Resilience**
+
+---
+
+## 🎯 Mission Lens
+- **Threat Realism:** no hype, only verified impact
+- **Precision:** clean signals, ruthless triage
+- **Speed:** low‑latency response and automation
+- **Resilience:** survive, learn, harden
 
 ---
 
@@ -74,6 +90,14 @@ focused on **content, education, tools, and real‑world impact** for digital de
 ## 🧷 Signature
 **Build Real. Break Smart.**  
 *Stay paranoid. Stay secure.*
+
+---
+
+## 🧨 Cinematic Credits
+**Director:** Sabine  
+**Studio:** Cynet  
+**Genre:** Cyber‑Ops / AI‑Defense / Offensive Engineering  
+**Status:** Always in production
 
 ---
 
