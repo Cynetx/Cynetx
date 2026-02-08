@@ -60,7 +60,7 @@
 ## 📊 GitHub Stats
 <div align="center">
 
-![Cynetx GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cynetx&show_icons=true&theme=tokyonight&hide_border=true)
+![Cynetx GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cynetx&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cynetx&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
