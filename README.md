@@ -1,26 +1,25 @@
 <div align="center">
 
-# 👾 Sabin | Cynet Team
+# 👾 Cynetx | Cynet Team
 
-**Cyber Security • Artificial Intelligence • Builder of Dangerous Ideas**
+**Cyber Security • Artificial Intelligence • Think Like an Attacker**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Cyber+Security+Enthusiast;AI+for+Defense+%26+Attack;Founder+of+Cynet;Think+Like+an+Attacker+Build+Like+a+Defender" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Cyber+Security+Mindset;AI+Driven+Defense+%26+Attack;Founder+of+Cynet;Security+is+a+Way+of+Thinking" />
 
 </div>
 
 ---
 
-## 🧠 About Me
-من **سابین** هستم؛  
-وسواسی روی جزئیات، عاشق کد تمیز،  
-و معتقدم **امنیت، فقط ابزار نیست؛ طرز فکره**.
+## 🧠 About
+من **Cynetx** هستم، بنیان‌گذار تیم **Cynet (ساینت)**.  
+تمرکز من روی جاییه که **امنیت سایبری، هوش مصنوعی و دنیای واقعی** به هم می‌رسن.
 
-- 🔐 تمرکز روی **Cyber Security (Attack & Defense)**
-- 🤖 استفاده عملی از **AI در تحلیل تهدید و اتوماسیون**
-- 🧪 یادگیری پروژه‌محور، سناریو‌محور، واقعی
-- 🚀 در حال ساخت **Cynet Ecosystem**
+- 🔐 امنیت سایبری (Attack & Defense Mindset)
+- 🤖 استفاده عملی از AI در تحلیل تهدید و اتوماسیون
+- 🧪 یادگیری و ساخت بر پایه سناریوهای واقعی
+- 🚀 در حال توسعه اکوسیستم **Cynet**
 
-> *Think like an attacker. Build like a defender.*
+> **Security is not a tool. It’s a mindset.**
 
 ---
 
@@ -37,32 +36,32 @@
 
 ---
 
-## 🔥 What I'm Building
-### 🧩 **Cynet (سای‌نت)**
-یک اکوسیستم تخصصی در حوزه:
-- 🔐 آموزش امنیت سایبری
-- 🤖 هوش مصنوعی کاربردی
-- 🧠 تحلیل تهدید و سناریوهای واقعی
-- 📰 اخبار و تحلیل دنیای تکنولوژی
+## 🔥 Cynet Ecosystem
+**Cynet (ساینت)** یک اکوسیستم تخصصی در حوزه امنیت سایبری و هوش مصنوعی است:
+
+- 🔐 آموزش امنیت سایبری پروژه‌محور
+- 🤖 AI برای تحلیل تهدید، لاگ و رفتار
+- 🧠 تفکر Red / Blue Team
+- 📰 تحلیل و اخبار تکنولوژی
 
 🌐 Website: https://cynetx.ir  
 📰 News: https://news.cynetx.ir  
 
 ---
 
-## 🚀 Featured Focus Areas
+## 🚀 Focus Areas
 - ✅ Threat Modeling & Attack Simulation  
-- ✅ AI‑Powered Log Analysis  
-- ✅ Security Automation  
-- ✅ Red / Blue Team Mindset  
+- ✅ AI‑Powered Security Automation  
+- ✅ Log Analysis & Anomaly Detection  
+- ✅ Red Team / Blue Team Scenarios  
 
 ---
 
 ## 📊 GitHub Stats
 <div align="center">
 
-![Sabin GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Cynetx GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cynetx&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cynetx&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -84,7 +83,7 @@
 <div align="center">
 
 ### 🐍 Contribution Snake
-![snake gif](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Cynetx/Cynetx/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -92,7 +91,7 @@
 
 <div align="center">
 
-**Built with 🧠 by Sabin | Cynet Team**  
-*Security is not optional.*
+**Built by Cynetx | Cynet Team**  
+*Stay paranoid. Stay secure.*
 
 </div>
