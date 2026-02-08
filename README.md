@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👾 Sabine | مدیر Cynet
+# 👾 Sabine | Cynet Founder & Director
 
-**Cyber Security • Offensive Mindset • Real‑World Engineering**
+**Cyber Security • Offensive Engineering • Applied AI**
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Cyber+Security+Mindset;AI+Driven+Defense+%26+Attack;Founder+of+Cynet;Security+is+a+Way+of+Thinking" />
 
@@ -11,25 +11,25 @@
 ---
 
 ## ⚡ About
-من **Sabine (سابین)** هستم، مدیر **Cynet (ساینت)**.  
-تمرکز من روی **امنیت سایبری واقعی، اتوماسیون هوشمند و مهندسی سطح بالا**ست.
+I'm **Sabine** — Founder & Director of **Cynet**.  
+I build real‑world security systems where **offense, defense, and AI engineering** converge.
 
-- 🔐 هکینگ و تست نفوذ با رویکرد عملی
-- 🤖 AI برای تحلیل تهدید و اتوماسیون امنیتی
-- 🧠 طراحی سناریوهای Red / Blue Team
-- 🚀 ساخت اکوسیستم Cynet برای آموزش و R&D
+- 🔐 Offensive Security, exploitation & real‑world testing
+- 🤖 AI‑driven threat analysis & security automation
+- 🧠 Red / Blue Team scenarios & adversarial modeling
+- 🚀 Building the Cynet ecosystem for R&D and education
 
 > **Security is not a tool. It’s a mindset.**
 
 ---
 
-## � Focus Grid
-| حوزه | تمرکز |
+## 🧠 Focus Grid
+| Domain | Core Focus |
 |---|---|
-| 🕵️ Threat Modeling | شبیه‌سازی حمله و ارزیابی ریسک |
-| 🛡️ Defense Automation | پاسخ خودکار و مقاوم‌سازی |
-| 🌐 Web / Network | تحلیل زیرساخت، سرویس و ترافیک |
-| 🔍 OSINT | کشف هوشمند داده و منابع عمومی |
+| 🕵️ Threat Modeling | Adversarial simulation & risk profiling |
+| 🛡️ Defense Automation | Response orchestration & hardening |
+| 🌐 Web / Network | Infra assessment & traffic intelligence |
+| 🔍 OSINT | Signal extraction from open sources |
 
 ---
 
@@ -49,12 +49,14 @@
 ---
 
 ## 🔥 Cynet Ecosystem
-**Cynet (ساینت)** اکوسیستم تخصصی امنیت سایبری و AI است:
+**Cynet** is a full‑stack cyber security & AI ecosystem —  
+focused on **content, education, tools, and real‑world impact** for digital defense.
 
-- 🔐 آموزش امنیت پروژه‌محور و واقعی
-- 🤖 تحلیل تهدید با AI و اتوماسیون
-- 🧠 تفکر Red / Blue Team
-- 📰 تحلیل و اخبار تکنولوژی
+- 🔐 High‑signal security content & research
+- 🤖 AI‑assisted threat analysis and automation
+- � Practical training, labs, and scenarios
+- 🛠️ Tooling for digital & cyber defense
+- 📰 Insights, reports, and emerging tech coverage
 
 🌐 Website: https://cynetx.ir  
 📰 News: https://news.cynetx.ir  
